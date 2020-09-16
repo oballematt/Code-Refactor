@@ -6,4 +6,3 @@ I have included two section tags, one has nested article tags and the other has 
 Inside of both section tags, I have nested figure tags. Nested inside the figure tags i have img elements with alt descriptions of the picture.
 
 https://oballematt.github.io/Code-Refactor/
-
